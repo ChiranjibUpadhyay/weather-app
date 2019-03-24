@@ -1,5 +1,5 @@
 # weather-app
-simple web app built using NodeJS for displaying current weather of a particular location
+simple web app built using NodeJS and Express for displaying current weather of a particular location
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/47445363/54674139-ce615500-4b21-11e9-996b-2eb86550dcee.png)
 
